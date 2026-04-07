@@ -1,7 +1,7 @@
 {
+  "url": "https://github.com/tree-sitter-grammars/tree-sitter-make",
+  "semver": false,
   "parser_version": "70613f3d812cbabbd7f38d104d60a409c4008b43",
   "location": null,
-  "lang": "make",
-  "url": "https://github.com/tree-sitter-grammars/tree-sitter-make",
-  "semver": false
+  "lang": "make"
 }
